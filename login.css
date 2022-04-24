@@ -2,7 +2,7 @@ body{
     margin: 0;
     padding: 0;
    font-weight: sans-serif;
-   background-color: rgb(127, 145, 203);
+   background-color:lightblue;
 }
 .loginbox{
     width:380px;
@@ -40,7 +40,7 @@ form input{
     border-radius: 6px;
 } 
 #button{
-background-color:rgb(152, 128, 217);
+background-color:rgb(88, 207, 213);
 }
 
 
